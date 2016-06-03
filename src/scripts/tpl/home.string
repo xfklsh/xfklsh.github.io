@@ -1,0 +1,64 @@
+<div class="m-home">
+<header>
+  <ul>
+    <li>
+      <span>北京</span>
+      <i class="yo-ico">&#xe6b1;</i>
+    </li>
+    <li>
+      <div>
+        <i class="yo-ico">&#x343b;</i>
+        <input type="text" name="name" value="" placeholder="小区、风格或房间名称">
+      </div>
+
+    </li>
+    <li>
+        <i class="yo-ico">&#xe6c5;</i>
+    </li>
+  </ul>
+</header>
+<section id="index-scroll" spa-widget="scroll">
+<div class="">
+  <ul class="banner">
+    <div class="swiper-container home-banner">
+      <div class="swiper-wrapper">
+          <div class="swiper-slide"><img src="/moble/img/banner2.png" alt="" /></div>
+          <div class="swiper-slide"><img src="/moble/img/banner1.png" alt="" /></div>
+      </div>
+      <!-- 如果需要分页器 -->
+      <div class="swiper-pagination"></div>
+    </div>
+  </ul>
+  <div class="room-pic-list">
+      <div>
+          <ul>
+            <li><img src="/moble/img/index_room1.jpg" alt="" /></li>
+            <li><img src="/moble/img/index_room3.jpg" alt="" /></li>
+          </ul>
+      </div>
+      <div>
+        <ul>
+          <li><img src="/moble/img/index_room2.jpg" alt="" /></li>
+          <li><img src="/moble/img/index_room5.jpg" alt="" /></li>
+          <li><img src="/moble/img/index_room4.jpg" alt="" /></li>
+        </ul>
+      </div>
+  </div>
+  <div class="hot">
+      <h2>
+        推荐套装
+        <p>
+          <span>更多</span>
+          <i class="yo-ico">&#xe633;</i>
+        </p>
+      </h2>
+      <ul>
+        <li><img src="/moble/img/index_list_pic1.jpg" alt="" /></li>
+        <li><img src="/moble/img/index_list_pic1.jpg" alt="" /></li>
+        <li><img src="/moble/img/index_list_pic1.jpg" alt="" /></li>
+        <li><img src="/moble/img/index_list_pic1.jpg" alt="" /></li>
+      </ul>
+  </div>
+</div>
+</section>
+</div>

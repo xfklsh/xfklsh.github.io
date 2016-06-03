@@ -1,0 +1,28 @@
+<div class="m-info">
+<header>
+  <span>体验店</span>
+</header>
+<section>
+	<dl>
+		<dt><img src = "/moble/img/info-pic1.jpg"></dt>
+		<dd>
+			<p>当代悦MOMA<span>25.4公里</span></p>
+      <p>顺义区顺沙路与顺白路交汇处，卧龙环桥西北角，样板间</p>
+		</dd>
+	</dl>
+  <dl>
+		<dt><img src = "/moble/img/info-pic1.jpg"></dt>
+		<dd>
+			<p>当代悦MOMA<span>25.4公里</span></p>
+      <p>顺义区顺沙路与顺白路交汇处，卧龙环桥西北角，样板间</p>
+		</dd>
+	</dl>
+  <dl>
+		<dt><img src = "/moble/img/info-pic1.jpg"></dt>
+		<dd>
+			<p>当代悦MOMA<span>25.4公里</span></p>
+      <p>顺义区顺沙路与顺白路交汇处，卧龙环桥西北角，样板间</p>
+		</dd>
+	</dl>
+</section>
+</div>

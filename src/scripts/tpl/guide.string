@@ -1,0 +1,8 @@
+<div class="swiper-container" id="guide-swiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide"><img src="/moble/img/s2.png" /></div>
+    <div class="swiper-slide"><img src="/moble/img/s3.png" /></div>
+    <div class="swiper-slide"><img src="/moble/img/s1.png" /></div>
+    <div class="swiper-slide" action-type="goto.index"><img src="/moble/img/s4.png" /></div>
+  </div>
+</div>

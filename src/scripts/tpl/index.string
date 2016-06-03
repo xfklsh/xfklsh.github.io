@@ -1,0 +1,31 @@
+<div class="m-index">
+    <div class="m-container"></div>
+    <footer>
+      <ul>
+        <li class="active" action-type="switch.view" data-tag="home">
+          <i class="yo-ico">&#xe627;</i>
+          <span>
+            艾佳
+          </span>
+        </li>
+        <li action-type="switch.view" data-tag="info">
+          <i class="yo-ico">&#xe62a;</i>
+          <span>
+            体验店
+          </span>
+        </li>
+        <li action-type="switch.view" data-tag="feel">
+          <i class="yo-ico">&#xe63d;</i>
+          <span>
+            灵感
+          </span>
+        </li>
+        <li action-type="switch.view" data-tag="user">
+          <i class="yo-ico">&#xe65d;</i>
+          <span>
+            我的
+          </span>
+        </li>
+      </ul>
+    </footer>
+</div>

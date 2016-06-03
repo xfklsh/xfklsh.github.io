@@ -1,0 +1,13 @@
+$font-heiti-light: Heiti SC Light, Helvetica Neue, Helvetica, STHeiTi, sans-serif;
+$font-heiti-medium: Heiti SC Medium, Heiti SC Light, Helvetica Neue, Helvetica, STHeiTi, sans-serif;
+
+$base-color: #ff5300;
+$border-color:#f1f1f1;
+@font-face {
+  font-family: yofont;
+  src: url("/moble/img/iconfont/iconfont.woff") format("woff"), url("/moble/img/iconfont/iconfont.ttf") format("truetype");
+}
+// @font-face {
+//   font-family: yofont;
+//   src: url("/footballSNS/images/iconfont/iconfont-menu.woff") format("woff"), url("/footballSNS/images/iconfont/iconfont-menu.ttf") format("truetype");
+// }

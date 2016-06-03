@@ -1,0 +1,47 @@
+<div class="m-user">
+  <header>
+    <p>
+      <i class="yo-ico">&#xe64a;</i>
+      <span><a href="#">登陆</a><b>/</b><a href="#">注册</a></span>
+    </p>
+  </header>
+  <section>
+    <ul class="money">
+      <li>
+        <i class="yo-ico">&#xe663;</i>
+        <span>现金券</span>
+      </li>
+      <li>
+        <i class="yo-ico">&#xe614;</i>
+        <span>抵用券</span>
+      </li>
+    </ul>
+    <ul class="user-list">
+      <li>
+        <i class="yo-ico">&#xe66a;</i>
+        <span>我的订单</span>
+        <b href="#" class="yo-ico">&#xe633;</b>
+      </li>
+      <li>
+        <i class="yo-ico">&#xe607;</i>
+        <span>我的DIY</span>
+      <b href="#" class="yo-ico">&#xe633;</b>
+      </li>
+      <li>
+        <i class="yo-ico">&#xe64d;</i>
+        <span>我的收藏</span>
+        <b href="#" class="yo-ico">&#xe633;</b>
+      </li>
+      <li>
+        <i class="yo-ico">&#xe6a0;</i>
+        <span>浏览历史</span>
+        <b href="#" class="yo-ico">&#xe633;</b>
+      </li>
+      <li>
+        <i class="yo-ico">&#xe627;</i>
+        <span>艾佳介绍</span>
+        <b href="#" class="yo-ico">&#xe633;</b>
+      </li>
+    </ul>
+  </section>
+</div>
